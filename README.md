@@ -1,4 +1,4 @@
-# Java-Assignment-Div-B
+# OOPS Java-Assignment-Div-B
 
 - Name -Vishnu Kotalwar
 - Roll no-56
